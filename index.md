@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello Everyone my name is Nikhil Ratnakar
 
 You can use the [editor on GitHub](https://github.com/NikhilRatnakar/NikhilRatnakar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
